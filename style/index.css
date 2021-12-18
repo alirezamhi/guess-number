@@ -1,0 +1,31 @@
+
+.header{
+    padding: 10px;
+    border-bottom: 2px solid rgba(90, 88, 88, 0.747);
+    text-align: center;
+}
+.box{
+    text-align: center;
+}
+.box__display_non{
+    display: none;
+}
+input{
+    width: 85px;
+}
+#chance{
+    font-weight: bold;
+    color: red;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+#warning{
+    text-align: center;
+}
